@@ -65,6 +65,6 @@ Our music and sound effects were chosen depending on the situation they were nee
 ## Authors:
 
 - Filip Deák
-- Lukáš Ševc (@sevcak)
-- Samuel Kundrát (@saminkosaurusrex)
-- Marián Šuľa
+- Lukáš Ševc ([@sevcak](https://github.com/sevcak))
+- Samuel Kundrát ([@saminkosaurusrex](https://github.com/saminkosaurusrex))
+- Marián Šuľa ([@Majkyone](https://github.com/Majkyone))
